@@ -1,21 +1,21 @@
 {
-    "name": "Whips Soda",
-    "short_name": "Whips",
-    "description": "The greatest place to get soda, ever.",
+    "name": "CCSDUT Timeclock",
+    "short_name": "CCSDUT Time",
+    "description": "The new timeclock, as an app. ",
     "icons": [
       {
         "sizes": "192x192",
         "type": "image/png",
-        "src": "https://cdn.serverse.org/images/whips.png"
+        "src": "https://cdn.serverse.org/images/timeclock%20favicon.png"
       },
       {
         "sizes": "512x512",
         "type": "image/png",
-        "src": "https://cdn.serverse.org/images/whips.png"
+        "src": "https://cdn.serverse.org/images/timeclock%20favicon.png"
       }
     ],
     "display": "standalone",
     "background_color": "blue",
     "theme_color": "blue",
-    "start_url": "/index.html"
+    "start_url": "/time.html"
   }
